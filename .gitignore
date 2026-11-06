@@ -1,0 +1,50 @@
+# =========================================
+# C++ / Compiled Binaries & Object Files
+# =========================================
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.lib
+*.dll
+*.a
+*.ilk
+*.pdb
+
+# =========================================
+# Build Directories
+# =========================================
+/build/
+/bin/
+/out/
+Debug/
+Release/
+
+# =========================================
+# IDE & Editor Configurations
+# =========================================
+# Visual Studio Code
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/cpp_properties.json
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.filters
+*.sln.docstates
+
+# =========================================
+# Operating System Generated Files
+# =========================================
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS / Linux
+.DS_Store
+.Trash-*
