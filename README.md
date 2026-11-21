@@ -188,7 +188,7 @@ Across 3 continuous inspection cycles ($100,050\text{ bytes}$ per cycle, $5$ act
 
 ---
 
-## 6. Future Scope & Scalability 🔬
+## 6. Future Scope & Scalability
 
 * **Multi-Pattern Automaton (Aho-Corasick):** Upgrade the KMP loop into a finite state machine using the Aho-Corasick algorithm to scan all $k$ signatures in a single pass over the buffer in $\mathcal{O}(n + m_{\text{total}} + z)$ time.
 * **Space-Optimized Knapsack:** Compress the 2D DP table into a 1D rolling array with bitset tracking to reduce space complexity from $\mathcal{O}(N \cdot W)$ to $\mathcal{O}(W)$.
