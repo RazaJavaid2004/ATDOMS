@@ -1,4 +1,4 @@
-# ATDOMS: Automated Threat Detection and Optimal Resource Mitigation System
+# ATDOMS: Automated Threat Detection and Optimal Resource Mitigation System 
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B)
 ![Domain](https://img.shields.io/badge/Domain-Cybersecurity%20%2F%20IDPS-red?style=flat-square)
